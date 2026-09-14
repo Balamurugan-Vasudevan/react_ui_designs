@@ -4,7 +4,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ## Deploy to GitHub Pages
 
-This app deploys automatically from the `main` branch using GitHub Actions. In the repository settings, open **Pages** and set the source to **GitHub Actions**, then push the changes to GitHub.
+Build and publish the app with `npm run deploy`. In the repository settings, open **Pages**, select **Deploy from a branch**, choose the `gh-pages` branch and its `/ (root)` folder.
 
 The deployed app will be available at:
 
